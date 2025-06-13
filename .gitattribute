@@ -1,0 +1,4 @@
+*.apk linguist-language=Java
+*.apk linguist-language=Python
+*.apk linguist-language=c++
+*.apk linguist-language=JavaScript 
